@@ -1,0 +1,834 @@
+2021-07-08 08:52:10,300 [main] INFO ebanking - info
+2021-07-08 08:52:10,311 [main] ERROR ebanking - error
+2021-07-08 08:52:10,313 [main] WARN ebanking - warn
+2021-07-08 08:56:42,062 [main] INFO ebanking - entered username 
+2021-07-08 08:56:42,258 [main] INFO ebanking - entered password
+2021-07-08 10:28:16,449 [main] INFO ebanking - entered username 
+2021-07-08 10:28:16,689 [main] INFO ebanking - entered password
+2021-07-08 10:28:18,832 [main] INFO ebanking - clicked submit button
+2021-07-08 10:32:14,848 [main] INFO ebanking - entered username 
+2021-07-08 10:32:15,056 [main] INFO ebanking - entered password
+2021-07-08 10:32:18,185 [main] INFO ebanking - clicked submit button
+2021-07-08 11:24:36,073 [main] INFO ebanking - entered username 
+2021-07-08 11:24:36,278 [main] INFO ebanking - entered password
+2021-07-08 11:24:38,298 [main] INFO ebanking - clicked submit button
+2021-07-08 11:52:01,951 [main] INFO ebanking - entered username 
+2021-07-08 11:52:02,157 [main] INFO ebanking - entered password
+2021-07-08 11:52:04,161 [main] INFO ebanking - clicked submit button
+2021-07-08 11:55:50,937 [main] INFO ebanking - entered username 
+2021-07-08 11:55:51,142 [main] INFO ebanking - entered password
+2021-07-08 11:55:52,926 [main] INFO ebanking - clicked submit button
+2021-07-08 11:57:32,915 [main] INFO ebanking - entered username 
+2021-07-08 11:57:33,140 [main] INFO ebanking - entered password
+2021-07-08 11:57:35,303 [main] INFO ebanking - clicked submit button
+2021-07-08 12:01:04,994 [main] INFO ebanking - entered username 
+2021-07-08 12:01:05,205 [main] INFO ebanking - entered password
+2021-07-08 12:01:07,467 [main] INFO ebanking - clicked submit button
+2021-07-08 12:02:00,719 [main] INFO ebanking - entered username 
+2021-07-08 12:02:00,941 [main] INFO ebanking - entered password
+2021-07-08 12:02:03,519 [main] INFO ebanking - clicked submit button
+2021-07-08 12:02:03,551 [main] INFO ebanking - login test is passed
+2021-07-08 12:54:37,707 [main] INFO ebanking - entered username 
+2021-07-08 12:54:37,969 [main] INFO ebanking - entered password
+2021-07-08 12:54:40,368 [main] INFO ebanking - clicked submit button
+2021-07-08 12:54:40,401 [main] INFO ebanking - login test is passed
+2021-07-08 12:56:54,966 [main] INFO ebanking - entered username 
+2021-07-08 12:56:55,225 [main] INFO ebanking - entered password
+2021-07-08 12:56:57,346 [main] INFO ebanking - clicked submit button
+2021-07-08 15:35:01,846 [main] INFO ebanking - entered url
+2021-07-08 15:35:02,008 [main] INFO ebanking - maxm the page
+2021-07-08 15:35:04,782 [main] INFO ebanking - entered username 
+2021-07-08 15:35:04,990 [main] INFO ebanking - entered password
+2021-07-08 15:35:07,621 [main] INFO ebanking - Login
+2021-07-08 15:35:15,300 [main] INFO ebanking - logout is succesfully
+2021-07-08 15:35:16,663 [main] INFO ebanking - entered username 
+2021-07-08 15:35:16,801 [main] INFO ebanking - entered password
+2021-07-08 15:35:17,431 [main] INFO ebanking - Login
+2021-07-08 15:35:23,094 [main] INFO ebanking - entered username 
+2021-07-08 15:35:23,237 [main] INFO ebanking - entered password
+2021-07-08 15:35:23,815 [main] INFO ebanking - Login
+2021-07-08 15:35:29,004 [main] INFO ebanking - entered username 
+2021-07-08 15:35:29,138 [main] INFO ebanking - entered password
+2021-07-08 15:35:30,149 [main] INFO ebanking - Login
+2021-07-08 15:35:37,059 [main] INFO ebanking - logout is succesfully
+2021-07-08 15:35:38,937 [main] INFO ebanking - entered username 
+2021-07-08 15:35:39,075 [main] INFO ebanking - entered password
+2021-07-08 15:35:39,834 [main] INFO ebanking - Login
+2021-07-08 17:02:32,044 [main] INFO ebanking - entered url
+2021-07-08 17:02:32,210 [main] INFO ebanking - maxm the page
+2021-07-08 17:09:39,684 [main] INFO ebanking - entered url
+2021-07-08 17:09:39,844 [main] INFO ebanking - maxm the page
+2021-07-08 17:09:40,271 [main] INFO ebanking - username entered
+2021-07-08 17:09:40,529 [main] INFO ebanking - password is entered
+2021-07-08 17:09:42,545 [main] INFO ebanking - login button clicked
+2021-07-08 17:09:43,421 [main] INFO ebanking - addcustomer link clicked
+2021-07-08 17:10:46,716 [main] INFO ebanking - entered url
+2021-07-08 17:10:46,894 [main] INFO ebanking - maxm the page
+2021-07-08 17:10:47,301 [main] INFO ebanking - username entered
+2021-07-08 17:10:47,548 [main] INFO ebanking - password is entered
+2021-07-08 17:10:49,290 [main] INFO ebanking - login button clicked
+2021-07-08 17:10:53,032 [main] INFO ebanking - addcustomer link clicked
+2021-07-08 17:22:19,585 [main] INFO ebanking - entered url
+2021-07-08 17:22:19,747 [main] INFO ebanking - maxm the page
+2021-07-08 17:22:20,121 [main] INFO ebanking - username entered
+2021-07-08 17:22:20,346 [main] INFO ebanking - password is entered
+2021-07-08 17:22:22,735 [main] INFO ebanking - login button clicked
+2021-07-08 17:22:26,455 [main] INFO ebanking - addcustomer link clicked
+2021-07-08 17:22:26,470 [main] INFO ebanking - New Customer link is passed
+2021-07-08 17:33:08,426 [main] INFO ebanking - entered url
+2021-07-08 17:33:08,587 [main] INFO ebanking - maxm the page
+2021-07-08 17:33:08,989 [main] INFO ebanking - username entered
+2021-07-08 17:33:09,205 [main] INFO ebanking - password is entered
+2021-07-08 17:33:11,259 [main] INFO ebanking - login button clicked
+2021-07-08 17:33:15,003 [main] INFO ebanking - addcustomer link clicked
+2021-07-08 17:33:15,257 [main] INFO ebanking - New Customer link is passed
+2021-07-08 17:33:15,806 [main] INFO ebanking - Page is closed
+2021-07-08 19:10:52,296 [main] INFO ebanking - entered url
+2021-07-08 19:10:52,478 [main] INFO ebanking - maxm the page
+2021-07-08 19:10:52,877 [main] INFO ebanking - username entered
+2021-07-08 19:10:53,104 [main] INFO ebanking - password is entered
+2021-07-08 19:10:54,897 [main] INFO ebanking - login button clicked
+2021-07-08 19:10:55,625 [main] INFO ebanking - addcustomer link clicked
+2021-07-08 19:10:58,776 [main] INFO ebanking - clicked a female
+2021-07-08 19:10:59,063 [main] INFO ebanking - added a DOB
+2021-07-08 19:10:59,355 [main] INFO ebanking - Added a address
+2021-07-08 19:10:59,542 [main] INFO ebanking - Added a city
+2021-07-08 19:10:59,717 [main] INFO ebanking - Added a state
+2021-07-08 19:10:59,876 [main] INFO ebanking - Added a pincode
+2021-07-08 19:11:00,053 [main] INFO ebanking - added a phone no
+2021-07-08 19:11:00,269 [main] INFO ebanking - added a email
+2021-07-08 19:11:00,409 [main] INFO ebanking - Clicked a submit
+2021-07-08 19:11:04,171 [main] INFO ebanking - Page is closed
+2021-07-08 19:14:08,199 [main] INFO ebanking - entered url
+2021-07-08 19:14:08,363 [main] INFO ebanking - maxm the page
+2021-07-08 19:14:08,705 [main] INFO ebanking - username entered
+2021-07-08 19:14:08,954 [main] INFO ebanking - password is entered
+2021-07-08 19:14:11,185 [main] INFO ebanking - login button clicked
+2021-07-08 19:14:11,920 [main] INFO ebanking - addcustomer link clicked
+2021-07-08 19:14:15,152 [main] INFO ebanking - added a customername
+2021-07-08 19:14:15,301 [main] INFO ebanking - clicked a female
+2021-07-08 19:14:15,572 [main] INFO ebanking - added a DOB
+2021-07-08 19:14:15,847 [main] INFO ebanking - Added a address
+2021-07-08 19:14:16,032 [main] INFO ebanking - Added a city
+2021-07-08 19:14:16,182 [main] INFO ebanking - Added a state
+2021-07-08 19:14:16,360 [main] INFO ebanking - Added a pincode
+2021-07-08 19:14:16,532 [main] INFO ebanking - added a phone no
+2021-07-08 19:14:16,733 [main] INFO ebanking - added a email
+2021-07-08 19:14:16,862 [main] INFO ebanking - Clicked a submit
+2021-07-08 19:14:20,778 [main] INFO ebanking - Page is closed
+2021-07-08 19:15:40,435 [main] INFO ebanking - entered url
+2021-07-08 19:15:40,601 [main] INFO ebanking - maxm the page
+2021-07-08 19:15:40,961 [main] INFO ebanking - username entered
+2021-07-08 19:15:41,189 [main] INFO ebanking - password is entered
+2021-07-08 19:15:43,196 [main] INFO ebanking - login button clicked
+2021-07-08 19:15:44,034 [main] INFO ebanking - addcustomer link clicked
+2021-07-08 19:15:47,243 [main] INFO ebanking - added a customername
+2021-07-08 19:15:47,371 [main] INFO ebanking - clicked a female
+2021-07-08 19:15:47,650 [main] INFO ebanking - added a DOB
+2021-07-08 19:15:47,955 [main] INFO ebanking - Added a address
+2021-07-08 19:15:48,134 [main] INFO ebanking - Added a city
+2021-07-08 19:15:48,299 [main] INFO ebanking - Added a state
+2021-07-08 19:15:48,458 [main] INFO ebanking - Added a pincode
+2021-07-08 19:15:48,666 [main] INFO ebanking - added a phone no
+2021-07-08 19:15:48,875 [main] INFO ebanking - added a email
+2021-07-08 19:15:49,784 [main] INFO ebanking - Clicked a submit
+2021-07-08 19:15:53,144 [main] INFO ebanking - New Customer  is Addeded
+2021-07-08 19:15:53,818 [main] INFO ebanking - Page is closed
+2021-07-08 22:10:15,313 [main] INFO ebanking - entered url
+2021-07-08 22:10:15,480 [main] INFO ebanking - maxm the page
+2021-07-08 22:10:15,997 [main] INFO ebanking - entered username 
+2021-07-08 22:10:16,417 [main] INFO ebanking - entered password
+2021-07-08 22:10:18,232 [main] INFO ebanking - clicked submit button
+2021-07-08 22:10:19,631 [main] INFO ebanking - Page is closed
+2021-07-08 22:11:53,319 [main] INFO ebanking - entered url
+2021-07-08 22:11:53,495 [main] INFO ebanking - maxm the page
+2021-07-08 22:11:53,924 [main] INFO ebanking - entered username 
+2021-07-08 22:11:54,121 [main] INFO ebanking - entered password
+2021-07-08 22:11:55,806 [main] INFO ebanking - clicked submit button
+2021-07-08 22:11:55,836 [main] INFO ebanking - login test is passed
+2021-07-08 22:11:56,883 [main] INFO ebanking - Page is closed
+2021-07-08 23:06:40,116 [main] INFO ebanking - entered url
+2021-07-08 23:06:40,485 [main] INFO ebanking - maxm the page
+2021-07-08 23:06:41,140 [main] INFO ebanking - entered username 
+2021-07-08 23:06:41,542 [main] INFO ebanking - entered password
+2021-07-08 23:06:43,357 [main] INFO ebanking - clicked submit button
+2021-07-08 23:06:43,391 [main] INFO ebanking - login test is passed
+2021-07-08 23:06:44,697 [main] INFO ebanking - Page is closed
+2021-07-08 23:26:28,872 [main] INFO ebanking - entered url
+2021-07-08 23:26:29,029 [main] INFO ebanking - maxm the page
+2021-07-08 23:26:29,508 [main] INFO ebanking - entered username 
+2021-07-08 23:26:29,692 [main] INFO ebanking - entered password
+2021-07-08 23:26:31,622 [main] INFO ebanking - clicked submit button
+2021-07-08 23:26:31,653 [main] INFO ebanking - login test is passed
+2021-07-08 23:27:35,313 [main] INFO ebanking - Page is closed
+2021-07-08 23:31:21,637 [main] INFO ebanking - entered url
+2021-07-08 23:31:21,791 [main] INFO ebanking - maxm the page
+2021-07-08 23:31:22,293 [main] INFO ebanking - entered username 
+2021-07-08 23:31:22,645 [main] INFO ebanking - entered password
+2021-07-08 23:31:24,467 [main] INFO ebanking - clicked submit button
+2021-07-08 23:31:24,520 [main] INFO ebanking - login test is passed
+2021-07-08 23:32:27,760 [main] INFO ebanking - Page is closed
+2021-07-08 23:33:14,639 [main] INFO ebanking - entered url
+2021-07-08 23:33:14,815 [main] INFO ebanking - maxm the page
+2021-07-08 23:33:15,343 [main] INFO ebanking - entered username 
+2021-07-08 23:33:15,612 [main] INFO ebanking - entered password
+2021-07-08 23:33:17,647 [main] INFO ebanking - clicked submit button
+2021-07-08 23:33:17,711 [main] INFO ebanking - login test is passed
+2021-07-08 23:34:24,339 [main] INFO ebanking - Page is closed
+2021-07-08 23:37:01,520 [main] INFO ebanking - entered url
+2021-07-08 23:37:01,673 [main] INFO ebanking - maxm the page
+2021-07-08 23:37:02,072 [main] INFO ebanking - entered username 
+2021-07-08 23:37:02,287 [main] INFO ebanking - entered password
+2021-07-08 23:37:04,194 [main] INFO ebanking - clicked submit button
+2021-07-08 23:37:04,255 [main] INFO ebanking - login test is passed
+2021-07-08 23:38:10,864 [main] INFO ebanking - Page is closed
+2021-07-08 23:38:46,777 [main] INFO ebanking - entered url
+2021-07-08 23:38:46,928 [main] INFO ebanking - maxm the page
+2021-07-08 23:38:47,271 [main] INFO ebanking - entered username 
+2021-07-08 23:38:47,456 [main] INFO ebanking - entered password
+2021-07-08 23:38:49,774 [main] INFO ebanking - clicked submit button
+2021-07-08 23:38:49,804 [main] INFO ebanking - login test is passed
+2021-07-08 23:39:53,263 [main] INFO ebanking - Page is closed
+2021-07-08 23:40:26,351 [main] INFO ebanking - entered url
+2021-07-08 23:40:26,509 [main] INFO ebanking - maxm the page
+2021-07-08 23:40:26,877 [main] INFO ebanking - entered username 
+2021-07-08 23:40:27,059 [main] INFO ebanking - entered password
+2021-07-08 23:40:28,770 [main] INFO ebanking - clicked submit button
+2021-07-08 23:40:28,797 [main] INFO ebanking - login test is passed
+2021-07-08 23:40:39,473 [main] INFO ebanking - Page is closed
+2021-07-08 23:41:58,121 [main] INFO ebanking - entered url
+2021-07-08 23:41:58,286 [main] INFO ebanking - maxm the page
+2021-07-08 23:41:58,639 [main] INFO ebanking - entered username 
+2021-07-08 23:41:58,819 [main] INFO ebanking - entered password
+2021-07-08 23:42:00,331 [main] INFO ebanking - clicked submit button
+2021-07-08 23:42:00,356 [main] INFO ebanking - login test is passed
+2021-07-08 23:42:11,058 [main] INFO ebanking - Page is closed
+2021-07-08 23:44:24,817 [main] INFO ebanking - entered url
+2021-07-08 23:44:24,981 [main] INFO ebanking - maxm the page
+2021-07-08 23:44:25,348 [main] INFO ebanking - entered username 
+2021-07-08 23:44:25,537 [main] INFO ebanking - entered password
+2021-07-08 23:44:27,539 [main] INFO ebanking - clicked submit button
+2021-07-08 23:44:27,888 [main] INFO ebanking - login test is passed
+2021-07-08 23:44:38,584 [main] INFO ebanking - Page is closed
+2021-07-08 23:46:29,868 [main] INFO ebanking - entered url
+2021-07-08 23:46:30,027 [main] INFO ebanking - maxm the page
+2021-07-08 23:46:30,459 [main] INFO ebanking - username entered
+2021-07-08 23:46:30,712 [main] INFO ebanking - password is entered
+2021-07-08 23:46:32,799 [main] INFO ebanking - login button clicked
+2021-07-08 23:46:33,526 [main] INFO ebanking - addcustomer link clicked
+2021-07-08 23:46:36,710 [main] INFO ebanking - added a customername
+2021-07-08 23:46:36,843 [main] INFO ebanking - clicked a female
+2021-07-08 23:46:37,093 [main] INFO ebanking - added a DOB
+2021-07-08 23:46:37,364 [main] INFO ebanking - Added a address
+2021-07-08 23:46:37,526 [main] INFO ebanking - Added a city
+2021-07-08 23:46:37,659 [main] INFO ebanking - Added a state
+2021-07-08 23:46:37,793 [main] INFO ebanking - Added a pincode
+2021-07-08 23:46:37,933 [main] INFO ebanking - added a phone no
+2021-07-08 23:46:38,100 [main] INFO ebanking - added a email
+2021-07-08 23:46:38,667 [main] INFO ebanking - Clicked a submit
+2021-07-08 23:46:41,943 [main] INFO ebanking - New Customer  is Addeded
+2021-07-08 23:46:42,513 [main] INFO ebanking - Page is closed
+2021-07-09 00:00:03,343 [main] INFO ebanking - entered url
+2021-07-09 00:00:03,526 [main] INFO ebanking - maxm the page
+2021-07-09 00:00:03,919 [main] INFO ebanking - username entered
+2021-07-09 00:00:04,140 [main] INFO ebanking - password is entered
+2021-07-09 00:00:09,684 [main] INFO ebanking - login button clicked
+2021-07-09 00:00:11,581 [main] INFO ebanking - addcustomer link clicked
+2021-07-09 00:00:14,745 [main] INFO ebanking - added a customername
+2021-07-09 00:00:14,856 [main] INFO ebanking - clicked a female
+2021-07-09 00:00:15,079 [main] INFO ebanking - added a DOB
+2021-07-09 00:00:15,287 [main] INFO ebanking - Added a address
+2021-07-09 00:00:15,412 [main] INFO ebanking - Added a city
+2021-07-09 00:00:15,539 [main] INFO ebanking - Added a state
+2021-07-09 00:00:15,664 [main] INFO ebanking - Added a pincode
+2021-07-09 00:00:15,798 [main] INFO ebanking - added a phone no
+2021-07-09 00:00:15,962 [main] INFO ebanking - added a email
+2021-07-09 00:00:16,603 [main] INFO ebanking - Clicked a submit
+2021-07-09 00:00:19,882 [main] INFO ebanking - New Customer  is Addeded
+2021-07-09 00:00:20,284 [main] INFO ebanking - Page is closed
+2021-07-09 00:07:27,508 [main] INFO ebanking - entered url
+2021-07-09 00:07:27,674 [main] INFO ebanking - maxm the page
+2021-07-09 00:07:30,737 [main] INFO ebanking - entered username 
+2021-07-09 00:07:31,027 [main] INFO ebanking - entered password
+2021-07-09 00:07:34,106 [main] INFO ebanking - Login
+2021-07-09 00:07:41,237 [main] INFO ebanking - logout is succesfully
+2021-07-09 00:07:42,714 [main] INFO ebanking - entered username 
+2021-07-09 00:07:42,824 [main] INFO ebanking - entered password
+2021-07-09 00:07:43,569 [main] INFO ebanking - Login
+2021-07-09 00:07:48,581 [main] INFO ebanking - entered username 
+2021-07-09 00:07:48,718 [main] INFO ebanking - entered password
+2021-07-09 00:07:49,326 [main] INFO ebanking - Login
+2021-07-09 00:07:55,063 [main] INFO ebanking - entered username 
+2021-07-09 00:07:55,242 [main] INFO ebanking - entered password
+2021-07-09 00:07:56,290 [main] INFO ebanking - Login
+2021-07-09 00:08:03,548 [main] INFO ebanking - logout is succesfully
+2021-07-09 00:08:05,912 [main] INFO ebanking - entered username 
+2021-07-09 00:08:06,031 [main] INFO ebanking - entered password
+2021-07-09 00:08:06,592 [main] INFO ebanking - Login
+2021-07-09 00:08:12,929 [main] INFO ebanking - username entered
+2021-07-09 00:08:13,129 [main] INFO ebanking - password is entered
+2021-07-09 00:08:14,180 [main] INFO ebanking - login button clicked
+2021-07-09 00:08:15,334 [main] INFO ebanking - addcustomer link clicked
+2021-07-09 00:08:18,527 [main] INFO ebanking - added a customername
+2021-07-09 00:08:18,724 [main] INFO ebanking - clicked a female
+2021-07-09 00:08:23,952 [main] INFO ebanking - added a DOB
+2021-07-09 00:08:24,132 [main] INFO ebanking - Added a address
+2021-07-09 00:08:24,487 [main] INFO ebanking - Added a city
+2021-07-09 00:08:24,635 [main] INFO ebanking - Added a state
+2021-07-09 00:08:24,767 [main] INFO ebanking - Added a pincode
+2021-07-09 00:08:24,901 [main] INFO ebanking - added a phone no
+2021-07-09 00:08:25,065 [main] INFO ebanking - added a email
+2021-07-09 00:08:25,734 [main] INFO ebanking - Clicked a submit
+2021-07-09 00:08:28,981 [main] INFO ebanking - New Customer  is Addeded
+2021-07-09 00:08:29,491 [main] INFO ebanking - Page is closed
+2021-07-09 00:26:58,127 [main] INFO ebanking - entered url
+2021-07-09 00:26:58,279 [main] INFO ebanking - maxm the page
+2021-07-09 00:26:58,343 [main] INFO ebanking - URL is opened
+2021-07-09 00:26:58,655 [main] INFO ebanking - entered username 
+2021-07-09 00:26:58,841 [main] INFO ebanking - entered password
+2021-07-09 00:27:01,061 [main] INFO ebanking - clicked submit button
+2021-07-09 00:27:01,361 [main] INFO ebanking - login test is passed
+2021-07-09 00:27:04,144 [main] INFO ebanking - URL is opened
+2021-07-09 00:27:14,327 [main] INFO ebanking - URL is opened
+2021-07-09 00:27:24,422 [main] INFO ebanking - URL is opened
+2021-07-09 00:27:34,481 [main] INFO ebanking - URL is opened
+2021-07-09 00:27:44,604 [main] INFO ebanking - URL is opened
+2021-07-09 00:27:54,717 [main] INFO ebanking - URL is opened
+2021-07-09 00:28:05,168 [main] INFO ebanking - Page is closed
+2021-07-09 00:33:06,254 [main] INFO ebanking - entered url
+2021-07-09 00:33:06,407 [main] INFO ebanking - maxm the page
+2021-07-09 00:33:06,463 [main] INFO ebanking - URL is opened
+2021-07-09 00:33:06,754 [main] INFO ebanking - entered username 
+2021-07-09 00:33:06,937 [main] INFO ebanking - entered password
+2021-07-09 00:33:09,214 [main] INFO ebanking - clicked submit button
+2021-07-09 00:33:09,570 [main] INFO ebanking - login test is passed
+2021-07-09 00:33:12,525 [main] INFO ebanking - URL is opened
+2021-07-09 00:33:22,609 [main] INFO ebanking - URL is opened
+2021-07-09 00:33:32,666 [main] INFO ebanking - URL is opened
+2021-07-09 00:33:42,765 [main] INFO ebanking - URL is opened
+2021-07-09 00:33:52,832 [main] INFO ebanking - URL is opened
+2021-07-09 00:34:02,945 [main] INFO ebanking - URL is opened
+2021-07-09 00:34:13,408 [main] INFO ebanking - Page is closed
+2021-07-09 00:36:22,849 [main] INFO ebanking - entered url
+2021-07-09 00:36:23,011 [main] INFO ebanking - maxm the page
+2021-07-09 00:36:23,072 [main] INFO ebanking - URL is opened
+2021-07-09 00:36:23,353 [main] INFO ebanking - entered username 
+2021-07-09 00:36:23,533 [main] INFO ebanking - entered password
+2021-07-09 00:36:26,545 [main] INFO ebanking - clicked submit button
+2021-07-09 00:36:27,861 [main] INFO ebanking - logout is success
+2021-07-09 00:36:30,769 [main] INFO ebanking - URL is opened
+2021-07-09 00:36:30,976 [main] INFO ebanking - entered username 
+2021-07-09 00:36:31,132 [main] INFO ebanking - entered password
+2021-07-09 00:36:32,066 [main] INFO ebanking - Login
+2021-07-09 00:36:38,683 [main] INFO ebanking - logout is succesfully
+2021-07-09 00:36:38,750 [main] INFO ebanking - URL is opened
+2021-07-09 00:36:40,836 [main] INFO ebanking - entered username 
+2021-07-09 00:36:40,988 [main] INFO ebanking - entered password
+2021-07-09 00:36:41,663 [main] INFO ebanking - Login
+2021-07-09 00:36:47,060 [main] INFO ebanking - URL is opened
+2021-07-09 00:36:47,212 [main] INFO ebanking - entered username 
+2021-07-09 00:36:47,335 [main] INFO ebanking - entered password
+2021-07-09 00:36:48,480 [main] INFO ebanking - Login
+2021-07-09 00:36:53,122 [main] INFO ebanking - URL is opened
+2021-07-09 00:36:53,270 [main] INFO ebanking - entered username 
+2021-07-09 00:36:53,403 [main] INFO ebanking - entered password
+2021-07-09 00:36:54,439 [main] INFO ebanking - Login
+2021-07-09 00:37:01,411 [main] INFO ebanking - logout is succesfully
+2021-07-09 00:37:01,452 [main] INFO ebanking - URL is opened
+2021-07-09 00:37:03,509 [main] INFO ebanking - entered username 
+2021-07-09 00:37:03,637 [main] INFO ebanking - entered password
+2021-07-09 00:37:04,468 [main] INFO ebanking - Login
+2021-07-09 00:37:08,935 [main] INFO ebanking - URL is opened
+2021-07-09 00:37:09,071 [main] INFO ebanking - username entered
+2021-07-09 00:37:09,195 [main] INFO ebanking - password is entered
+2021-07-09 00:37:10,091 [main] INFO ebanking - login button clicked
+2021-07-09 00:37:11,119 [main] INFO ebanking - addcustomer link clicked
+2021-07-09 00:37:14,288 [main] INFO ebanking - added a customername
+2021-07-09 00:37:14,402 [main] INFO ebanking - clicked a female
+2021-07-09 00:37:19,704 [main] INFO ebanking - added a DOB
+2021-07-09 00:37:19,947 [main] INFO ebanking - Added a address
+2021-07-09 00:37:20,086 [main] INFO ebanking - Added a city
+2021-07-09 00:37:20,215 [main] INFO ebanking - Added a state
+2021-07-09 00:37:20,342 [main] INFO ebanking - Added a pincode
+2021-07-09 00:37:20,486 [main] INFO ebanking - added a phone no
+2021-07-09 00:37:20,651 [main] INFO ebanking - added a email
+2021-07-09 00:37:21,468 [main] INFO ebanking - Clicked a submit
+2021-07-09 00:37:24,705 [main] INFO ebanking - New Customer  is Addeded
+2021-07-09 00:37:25,214 [main] INFO ebanking - Page is closed
+2021-07-09 00:50:33,992 [main] INFO ebanking - entered url
+2021-07-09 00:50:34,160 [main] INFO ebanking - maxm the page
+2021-07-09 00:50:34,207 [main] INFO ebanking - URL is opened
+2021-07-09 00:50:34,519 [main] INFO ebanking - entered username 
+2021-07-09 00:50:34,694 [main] INFO ebanking - entered password
+2021-07-09 00:50:36,737 [main] INFO ebanking - clicked submit button
+2021-07-09 00:50:37,081 [main] INFO ebanking - login test is passed
+2021-07-09 00:50:38,201 [main] INFO ebanking - logout is success
+2021-07-09 00:50:41,194 [main] INFO ebanking - URL is opened
+2021-07-09 00:50:41,304 [main] INFO ebanking - URL is opened
+2021-07-09 00:50:43,166 [main] INFO ebanking - entered username 
+2021-07-09 00:50:43,296 [main] INFO ebanking - entered password
+2021-07-09 00:50:44,013 [main] INFO ebanking - Login
+2021-07-09 00:50:49,321 [main] INFO ebanking - URL is opened
+2021-07-09 00:50:49,617 [main] INFO ebanking - entered username 
+2021-07-09 00:50:49,745 [main] INFO ebanking - entered password
+2021-07-09 00:50:50,360 [main] INFO ebanking - Login
+2021-07-09 00:50:55,781 [main] INFO ebanking - URL is opened
+2021-07-09 00:50:55,995 [main] INFO ebanking - entered username 
+2021-07-09 00:50:56,187 [main] INFO ebanking - entered password
+2021-07-09 00:50:57,457 [main] INFO ebanking - Login
+2021-07-09 00:51:04,497 [main] INFO ebanking - logout is succesfully
+2021-07-09 00:51:04,537 [main] INFO ebanking - URL is opened
+2021-07-09 00:51:06,901 [main] INFO ebanking - entered username 
+2021-07-09 00:51:07,057 [main] INFO ebanking - entered password
+2021-07-09 00:51:07,689 [main] INFO ebanking - Login
+2021-07-09 00:51:13,089 [main] INFO ebanking - URL is opened
+2021-07-09 00:51:13,320 [main] INFO ebanking - username entered
+2021-07-09 00:51:13,495 [main] INFO ebanking - password is entered
+2021-07-09 00:51:14,273 [main] INFO ebanking - login button clicked
+2021-07-09 00:51:15,181 [main] INFO ebanking - addcustomer link clicked
+2021-07-09 00:51:18,466 [main] INFO ebanking - added a customername
+2021-07-09 00:51:18,592 [main] INFO ebanking - clicked a female
+2021-07-09 00:51:24,002 [main] INFO ebanking - added a DOB
+2021-07-09 00:51:24,285 [main] INFO ebanking - Added a address
+2021-07-09 00:51:24,411 [main] INFO ebanking - Added a city
+2021-07-09 00:51:24,538 [main] INFO ebanking - Added a state
+2021-07-09 00:51:24,666 [main] INFO ebanking - Added a pincode
+2021-07-09 00:51:24,855 [main] INFO ebanking - added a phone no
+2021-07-09 00:51:25,069 [main] INFO ebanking - added a email
+2021-07-09 00:51:25,845 [main] INFO ebanking - Clicked a submit
+2021-07-09 00:51:29,104 [main] INFO ebanking - screenshot Capture
+2021-07-09 00:51:29,104 [main] INFO ebanking - New Customer  is Addeded
+2021-07-09 00:51:29,592 [main] INFO ebanking - Page is closed
+2021-07-09 00:55:14,027 [main] INFO ebanking - entered url
+2021-07-09 00:55:14,192 [main] INFO ebanking - maxm the page
+2021-07-09 00:55:14,242 [main] INFO ebanking - URL is opened
+2021-07-09 00:55:14,609 [main] INFO ebanking - entered username 
+2021-07-09 00:55:14,782 [main] INFO ebanking - entered password
+2021-07-09 00:55:16,772 [main] INFO ebanking - clicked submit button
+2021-07-09 00:55:17,124 [main] INFO ebanking - login test is passed
+2021-07-09 00:55:18,184 [main] INFO ebanking - logout is success
+2021-07-09 00:55:20,901 [main] INFO ebanking - URL is opened
+2021-07-09 00:55:21,045 [main] INFO ebanking - URL is opened
+2021-07-09 00:55:23,184 [main] INFO ebanking - entered username 
+2021-07-09 00:55:23,314 [main] INFO ebanking - entered password
+2021-07-09 00:55:23,968 [main] INFO ebanking - Login
+2021-07-09 00:55:29,376 [main] INFO ebanking - URL is opened
+2021-07-09 00:55:29,566 [main] INFO ebanking - entered username 
+2021-07-09 00:55:29,727 [main] INFO ebanking - entered password
+2021-07-09 00:55:30,914 [main] INFO ebanking - Login
+2021-07-09 00:55:36,159 [main] INFO ebanking - URL is opened
+2021-07-09 00:55:36,470 [main] INFO ebanking - entered username 
+2021-07-09 00:55:36,750 [main] INFO ebanking - entered password
+2021-07-09 00:55:37,645 [main] INFO ebanking - Login
+2021-07-09 00:55:45,035 [main] INFO ebanking - logout is succesfully
+2021-07-09 00:55:45,077 [main] INFO ebanking - URL is opened
+2021-07-09 00:55:46,598 [main] INFO ebanking - entered username 
+2021-07-09 00:55:46,759 [main] INFO ebanking - entered password
+2021-07-09 00:55:47,328 [main] INFO ebanking - Login
+2021-07-09 00:55:52,670 [main] INFO ebanking - URL is opened
+2021-07-09 00:55:52,862 [main] INFO ebanking - username entered
+2021-07-09 00:55:53,022 [main] INFO ebanking - password is entered
+2021-07-09 00:55:53,835 [main] INFO ebanking - login button clicked
+2021-07-09 00:55:54,957 [main] INFO ebanking - addcustomer link clicked
+2021-07-09 00:55:58,239 [main] INFO ebanking - added a customername
+2021-07-09 00:55:58,348 [main] INFO ebanking - clicked a female
+2021-07-09 00:56:03,679 [main] INFO ebanking - added a DOB
+2021-07-09 00:56:03,893 [main] INFO ebanking - Added a address
+2021-07-09 00:56:04,015 [main] INFO ebanking - Added a city
+2021-07-09 00:56:04,144 [main] INFO ebanking - Added a state
+2021-07-09 00:56:04,338 [main] INFO ebanking - Added a pincode
+2021-07-09 00:56:04,509 [main] INFO ebanking - added a phone no
+2021-07-09 00:56:04,754 [main] INFO ebanking - added a email
+2021-07-09 00:56:05,536 [main] INFO ebanking - Clicked a submit
+2021-07-09 00:56:08,781 [main] INFO ebanking - screenshot Capture
+2021-07-09 00:56:08,782 [main] INFO ebanking - New Customer  is Addeded
+2021-07-09 00:56:09,163 [main] INFO ebanking - Page is closed
+2021-07-09 00:58:23,076 [main] INFO ebanking - entered url
+2021-07-09 00:58:23,229 [main] INFO ebanking - maxm the page
+2021-07-09 00:58:23,279 [main] INFO ebanking - URL is opened
+2021-07-09 00:58:23,654 [main] INFO ebanking - entered username 
+2021-07-09 00:58:23,868 [main] INFO ebanking - entered password
+2021-07-09 00:58:26,022 [main] INFO ebanking - clicked submit button
+2021-07-09 00:58:26,369 [main] INFO ebanking - login test is passed
+2021-07-09 00:58:27,899 [main] INFO ebanking - logout is success
+2021-07-09 00:58:30,657 [main] INFO ebanking - URL is opened
+2021-07-09 00:58:30,781 [main] INFO ebanking - URL is opened
+2021-07-09 00:58:32,540 [main] INFO ebanking - entered username 
+2021-07-09 00:58:32,683 [main] INFO ebanking - entered password
+2021-07-09 00:58:33,437 [main] INFO ebanking - Login
+2021-07-09 00:58:38,668 [main] INFO ebanking - URL is opened
+2021-07-09 00:58:38,952 [main] INFO ebanking - entered username 
+2021-07-09 00:58:39,081 [main] INFO ebanking - entered password
+2021-07-09 00:58:39,801 [main] INFO ebanking - Login
+2021-07-09 00:58:44,532 [main] INFO ebanking - URL is opened
+2021-07-09 00:58:44,802 [main] INFO ebanking - entered username 
+2021-07-09 00:58:44,958 [main] INFO ebanking - entered password
+2021-07-09 00:58:45,770 [main] INFO ebanking - Login
+2021-07-09 00:58:52,720 [main] INFO ebanking - logout is succesfully
+2021-07-09 00:58:52,774 [main] INFO ebanking - URL is opened
+2021-07-09 00:58:54,850 [main] INFO ebanking - entered username 
+2021-07-09 00:58:55,022 [main] INFO ebanking - entered password
+2021-07-09 00:58:55,963 [main] INFO ebanking - Login
+2021-07-09 00:59:01,249 [main] INFO ebanking - URL is opened
+2021-07-09 00:59:01,441 [main] INFO ebanking - username entered
+2021-07-09 00:59:01,567 [main] INFO ebanking - password is entered
+2021-07-09 00:59:02,401 [main] INFO ebanking - login button clicked
+2021-07-09 00:59:03,977 [main] INFO ebanking - addcustomer link clicked
+2021-07-09 00:59:07,288 [main] INFO ebanking - added a customername
+2021-07-09 00:59:07,401 [main] INFO ebanking - clicked a female
+2021-07-09 00:59:12,924 [main] INFO ebanking - added a DOB
+2021-07-09 00:59:13,300 [main] INFO ebanking - Added a address
+2021-07-09 00:59:13,433 [main] INFO ebanking - Added a city
+2021-07-09 00:59:13,559 [main] INFO ebanking - Added a state
+2021-07-09 00:59:13,689 [main] INFO ebanking - Added a pincode
+2021-07-09 00:59:13,868 [main] INFO ebanking - added a phone no
+2021-07-09 00:59:14,133 [main] INFO ebanking - added a email
+2021-07-09 00:59:14,780 [main] INFO ebanking - Clicked a submit
+2021-07-09 00:59:18,024 [main] INFO ebanking - screenshot Capture
+2021-07-09 00:59:18,024 [main] INFO ebanking - New Customer  is Addeded
+2021-07-09 00:59:18,465 [main] INFO ebanking - Page is closed
+2021-07-09 10:32:58,622 [main] INFO ebanking - entered url
+2021-07-09 10:32:58,775 [main] INFO ebanking - maxm the page
+2021-07-09 10:32:58,826 [main] INFO ebanking - URL is opened
+2021-07-09 10:32:59,141 [main] INFO ebanking - entered username 
+2021-07-09 10:32:59,348 [main] INFO ebanking - entered password
+2021-07-09 10:33:01,287 [main] INFO ebanking - clicked submit button
+2021-07-09 10:33:01,607 [main] INFO ebanking - login test is passed
+2021-07-09 10:33:03,125 [main] INFO ebanking - logout is success
+2021-07-09 10:33:06,046 [main] INFO ebanking - URL is opened
+2021-07-09 10:33:06,186 [main] INFO ebanking - URL is opened
+2021-07-09 10:33:07,870 [main] INFO ebanking - entered username 
+2021-07-09 10:33:08,014 [main] INFO ebanking - entered password
+2021-07-09 10:33:08,865 [main] INFO ebanking - Login
+2021-07-09 10:33:13,779 [main] INFO ebanking - URL is opened
+2021-07-09 10:33:13,964 [main] INFO ebanking - entered username 
+2021-07-09 10:33:14,099 [main] INFO ebanking - entered password
+2021-07-09 10:33:15,003 [main] INFO ebanking - Login
+2021-07-09 10:33:19,535 [main] INFO ebanking - URL is opened
+2021-07-09 10:33:19,724 [main] INFO ebanking - entered username 
+2021-07-09 10:33:19,858 [main] INFO ebanking - entered password
+2021-07-09 10:33:20,922 [main] INFO ebanking - Login
+2021-07-09 10:33:27,908 [main] INFO ebanking - logout is succesfully
+2021-07-09 10:33:27,944 [main] INFO ebanking - URL is opened
+2021-07-09 10:33:30,131 [main] INFO ebanking - entered username 
+2021-07-09 10:33:30,262 [main] INFO ebanking - entered password
+2021-07-09 10:33:30,906 [main] INFO ebanking - Login
+2021-07-09 10:33:35,924 [main] INFO ebanking - URL is opened
+2021-07-09 10:33:36,149 [main] INFO ebanking - username entered
+2021-07-09 10:33:36,281 [main] INFO ebanking - password is entered
+2021-07-09 10:33:37,093 [main] INFO ebanking - login button clicked
+2021-07-09 10:33:37,835 [main] INFO ebanking - addcustomer link clicked
+2021-07-09 10:33:41,169 [main] INFO ebanking - added a customername
+2021-07-09 10:33:41,279 [main] INFO ebanking - clicked a female
+2021-07-09 10:33:46,779 [main] INFO ebanking - added a DOB
+2021-07-09 10:33:47,125 [main] INFO ebanking - Added a address
+2021-07-09 10:33:47,251 [main] INFO ebanking - Added a city
+2021-07-09 10:33:47,378 [main] INFO ebanking - Added a state
+2021-07-09 10:33:47,511 [main] INFO ebanking - Added a pincode
+2021-07-09 10:33:47,659 [main] INFO ebanking - added a phone no
+2021-07-09 10:33:47,889 [main] INFO ebanking - added a email
+2021-07-09 10:33:48,864 [main] INFO ebanking - Clicked a submit
+2021-07-09 10:33:52,113 [main] INFO ebanking - screenshot Capture
+2021-07-09 10:33:52,113 [main] INFO ebanking - New Customer  is Addeded
+2021-07-09 10:33:52,524 [main] INFO ebanking - Page is closed
+2021-07-09 13:01:51,011 [main] INFO ebanking - entered url
+2021-07-09 13:01:51,212 [main] INFO ebanking - maxm the page
+2021-07-09 13:01:51,274 [main] INFO ebanking - URL is opened
+2021-07-09 13:01:51,675 [main] INFO ebanking - entered username 
+2021-07-09 13:01:51,888 [main] INFO ebanking - entered password
+2021-07-09 13:01:53,984 [main] INFO ebanking - clicked submit button
+2021-07-09 13:01:54,414 [main] INFO ebanking - login test is passed
+2021-07-09 13:01:56,288 [main] INFO ebanking - logout is success
+2021-07-09 13:01:59,818 [main] INFO ebanking - URL is opened
+2021-07-09 13:01:59,893 [main] INFO ebanking - URL is opened
+2021-07-09 13:02:02,285 [main] INFO ebanking - entered username 
+2021-07-09 13:02:02,553 [main] INFO ebanking - entered password
+2021-07-09 13:02:03,857 [main] INFO ebanking - Login
+2021-07-09 13:02:08,756 [main] INFO ebanking - URL is opened
+2021-07-09 13:02:08,905 [main] INFO ebanking - entered username 
+2021-07-09 13:02:09,028 [main] INFO ebanking - entered password
+2021-07-09 13:02:09,935 [main] INFO ebanking - Login
+2021-07-09 13:02:15,371 [main] INFO ebanking - URL is opened
+2021-07-09 13:02:15,531 [main] INFO ebanking - entered username 
+2021-07-09 13:02:15,652 [main] INFO ebanking - entered password
+2021-07-09 13:02:16,482 [main] INFO ebanking - Login
+2021-07-09 13:02:23,408 [main] INFO ebanking - logout is succesfully
+2021-07-09 13:02:23,428 [main] INFO ebanking - URL is opened
+2021-07-09 13:02:24,854 [main] INFO ebanking - entered username 
+2021-07-09 13:02:24,980 [main] INFO ebanking - entered password
+2021-07-09 13:02:25,559 [main] INFO ebanking - Login
+2021-07-09 13:02:30,191 [main] INFO ebanking - URL is opened
+2021-07-09 13:02:30,338 [main] INFO ebanking - username entered
+2021-07-09 13:02:30,465 [main] INFO ebanking - password is entered
+2021-07-09 13:02:31,225 [main] INFO ebanking - login button clicked
+2021-07-09 13:02:32,142 [main] INFO ebanking - addcustomer link clicked
+2021-07-09 13:02:35,356 [main] INFO ebanking - added a customername
+2021-07-09 13:02:35,490 [main] INFO ebanking - clicked a female
+2021-07-09 13:02:40,753 [main] INFO ebanking - added a DOB
+2021-07-09 13:02:40,937 [main] INFO ebanking - Added a address
+2021-07-09 13:02:41,083 [main] INFO ebanking - Added a city
+2021-07-09 13:02:41,214 [main] INFO ebanking - Added a state
+2021-07-09 13:02:41,341 [main] INFO ebanking - Added a pincode
+2021-07-09 13:02:41,481 [main] INFO ebanking - added a phone no
+2021-07-09 13:02:41,659 [main] INFO ebanking - added a email
+2021-07-09 13:02:42,256 [main] INFO ebanking - Clicked a submit
+2021-07-09 13:02:45,566 [main] INFO ebanking - screenshot Capture
+2021-07-09 13:02:45,566 [main] INFO ebanking - New Customer  is Addeded
+2021-07-09 13:02:46,548 [main] INFO ebanking - Page is closed
+2021-07-09 13:09:24,763 [main] INFO ebanking - entered url
+2021-07-09 13:09:24,936 [main] INFO ebanking - maxm the page
+2021-07-09 13:09:25,023 [main] INFO ebanking - URL is opened
+2021-07-09 13:09:25,357 [main] INFO ebanking - entered username 
+2021-07-09 13:09:25,556 [main] INFO ebanking - entered password
+2021-07-09 13:09:27,839 [main] INFO ebanking - clicked submit button
+2021-07-09 13:09:28,252 [main] INFO ebanking - login test is passed
+2021-07-09 13:09:29,304 [main] INFO ebanking - logout is success
+2021-07-09 13:09:29,916 [main] INFO ebanking - Page is closed
+2021-07-09 13:10:59,576 [main] INFO ebanking - entered url
+2021-07-09 13:10:59,838 [main] INFO ebanking - maxm the page
+2021-07-09 13:10:59,960 [main] INFO ebanking - URL is opened
+2021-07-09 13:11:00,974 [main] INFO ebanking - entered username 
+2021-07-09 13:11:01,271 [main] INFO ebanking - entered password
+2021-07-09 13:11:05,584 [main] INFO ebanking - clicked submit button
+2021-07-09 13:11:05,934 [main] INFO ebanking - login test is passed
+2021-07-09 13:11:08,816 [main] INFO ebanking - logout is success
+2021-07-09 13:11:08,958 [main] INFO ebanking - URL is opened
+2021-07-09 13:11:10,279 [main] INFO ebanking - username entered
+2021-07-09 13:11:10,412 [main] INFO ebanking - password is entered
+2021-07-09 13:11:11,616 [main] INFO ebanking - login button clicked
+2021-07-09 13:11:14,720 [main] INFO ebanking - addcustomer link clicked
+2021-07-09 13:11:17,904 [main] INFO ebanking - added a customername
+2021-07-09 13:11:18,024 [main] INFO ebanking - clicked a female
+2021-07-09 13:11:23,277 [main] INFO ebanking - added a DOB
+2021-07-09 13:11:23,525 [main] INFO ebanking - Added a address
+2021-07-09 13:11:23,665 [main] INFO ebanking - Added a city
+2021-07-09 13:11:23,804 [main] INFO ebanking - Added a state
+2021-07-09 13:11:23,937 [main] INFO ebanking - Added a pincode
+2021-07-09 13:11:24,087 [main] INFO ebanking - added a phone no
+2021-07-09 13:11:24,259 [main] INFO ebanking - added a email
+2021-07-09 13:11:24,884 [main] INFO ebanking - Clicked a submit
+2021-07-09 13:11:28,119 [main] INFO ebanking - screenshot Capture
+2021-07-09 13:11:28,120 [main] INFO ebanking - New Customer  is Addeded
+2021-07-09 13:11:28,587 [main] INFO ebanking - Page is closed
+2021-07-09 13:20:18,778 [main] INFO ebanking - entered url
+2021-07-09 13:20:18,945 [main] INFO ebanking - maxm the page
+2021-07-09 13:20:19,002 [main] INFO ebanking - URL is opened
+2021-07-09 13:20:19,349 [main] INFO ebanking - entered username 
+2021-07-09 13:20:19,601 [main] INFO ebanking - entered password
+2021-07-09 13:20:21,478 [main] INFO ebanking - clicked submit button
+2021-07-09 13:20:21,838 [main] INFO ebanking - login test is passed
+2021-07-09 13:20:22,801 [main] INFO ebanking - logout is success
+2021-07-09 13:20:22,957 [main] INFO ebanking - URL is opened
+2021-07-09 13:20:24,009 [main] INFO ebanking - username entered
+2021-07-09 13:20:24,182 [main] INFO ebanking - password is entered
+2021-07-09 13:20:25,071 [main] INFO ebanking - login button clicked
+2021-07-09 13:20:26,685 [main] INFO ebanking - addcustomer link clicked
+2021-07-09 13:20:29,874 [main] INFO ebanking - added a customername
+2021-07-09 13:20:29,988 [main] INFO ebanking - clicked a female
+2021-07-09 13:20:35,246 [main] INFO ebanking - added a DOB
+2021-07-09 13:20:35,492 [main] INFO ebanking - Added a address
+2021-07-09 13:20:35,664 [main] INFO ebanking - Added a city
+2021-07-09 13:20:35,804 [main] INFO ebanking - Added a state
+2021-07-09 13:20:35,943 [main] INFO ebanking - Added a pincode
+2021-07-09 13:20:36,096 [main] INFO ebanking - added a phone no
+2021-07-09 13:20:36,265 [main] INFO ebanking - added a email
+2021-07-09 13:20:37,147 [main] INFO ebanking - Clicked a submit
+2021-07-09 13:20:40,359 [main] INFO ebanking - screenshot Capture
+2021-07-09 13:20:40,360 [main] INFO ebanking - New Customer  is Addeded
+2021-07-09 13:20:40,822 [main] INFO ebanking - Page is closed
+2021-07-09 13:23:15,443 [main] INFO ebanking - entered url
+2021-07-09 13:23:15,608 [main] INFO ebanking - maxm the page
+2021-07-09 13:23:15,663 [main] INFO ebanking - URL is opened
+2021-07-09 13:23:15,963 [main] INFO ebanking - entered username 
+2021-07-09 13:23:16,181 [main] INFO ebanking - entered password
+2021-07-09 13:23:18,167 [main] INFO ebanking - clicked submit button
+2021-07-09 13:23:18,485 [main] INFO ebanking - login test is passed
+2021-07-09 13:23:19,683 [main] INFO ebanking - logout is success
+2021-07-09 13:23:22,689 [main] INFO ebanking - page is quit
+2021-07-09 13:23:23,368 [main] INFO ebanking - URL is opened
+2021-07-09 13:23:23,401 [main] INFO ebanking - Page is closed
+2021-07-09 13:26:52,579 [main] INFO ebanking - entered url
+2021-07-09 13:26:52,741 [main] INFO ebanking - maxm the page
+2021-07-09 13:26:52,808 [main] INFO ebanking - URL is opened
+2021-07-09 13:26:53,117 [main] INFO ebanking - entered username 
+2021-07-09 13:26:53,394 [main] INFO ebanking - entered password
+2021-07-09 13:26:55,568 [main] INFO ebanking - clicked submit button
+2021-07-09 13:26:55,885 [main] INFO ebanking - login test is passed
+2021-07-09 13:26:57,023 [main] INFO ebanking - logout is success
+2021-07-09 13:27:00,035 [main] INFO ebanking - page is quit
+2021-07-09 13:27:00,591 [main] INFO ebanking - URL is opened
+2021-07-09 13:27:00,609 [main] INFO ebanking - Page is closed
+2021-07-09 13:29:31,169 [main] INFO ebanking - entered url
+2021-07-09 13:29:31,345 [main] INFO ebanking - maxm the page
+2021-07-09 13:29:31,405 [main] INFO ebanking - URL is opened
+2021-07-09 13:29:31,732 [main] INFO ebanking - entered username 
+2021-07-09 13:29:31,917 [main] INFO ebanking - entered password
+2021-07-09 13:29:33,959 [main] INFO ebanking - clicked submit button
+2021-07-09 13:29:34,311 [main] INFO ebanking - login test is passed
+2021-07-09 13:29:35,367 [main] INFO ebanking - logout is success
+2021-07-09 13:29:39,733 [main] INFO ebanking - URL is opened
+2021-07-09 13:29:39,884 [main] INFO ebanking - username entered
+2021-07-09 13:29:40,036 [main] INFO ebanking - password is entered
+2021-07-09 13:29:41,058 [main] INFO ebanking - login button clicked
+2021-07-09 13:29:42,257 [main] INFO ebanking - addcustomer link clicked
+2021-07-09 13:29:45,449 [main] INFO ebanking - added a customername
+2021-07-09 13:29:45,573 [main] INFO ebanking - clicked a female
+2021-07-09 13:29:50,836 [main] INFO ebanking - added a DOB
+2021-07-09 13:29:51,085 [main] INFO ebanking - Added a address
+2021-07-09 13:29:51,223 [main] INFO ebanking - Added a city
+2021-07-09 13:29:51,363 [main] INFO ebanking - Added a state
+2021-07-09 13:29:51,496 [main] INFO ebanking - Added a pincode
+2021-07-09 13:29:51,643 [main] INFO ebanking - added a phone no
+2021-07-09 13:29:51,821 [main] INFO ebanking - added a email
+2021-07-09 13:29:52,413 [main] INFO ebanking - Clicked a submit
+2021-07-09 13:29:55,651 [main] INFO ebanking - screenshot Capture
+2021-07-09 13:29:55,652 [main] INFO ebanking - New Customer  is Addeded
+2021-07-09 13:29:56,121 [main] INFO ebanking - Page is closed
+2021-07-09 13:31:13,611 [main] INFO ebanking - entered url
+2021-07-09 13:31:13,778 [main] INFO ebanking - maxm the page
+2021-07-09 13:31:13,846 [main] INFO ebanking - URL is opened
+2021-07-09 13:31:14,590 [main] INFO ebanking - entered username 
+2021-07-09 13:31:14,950 [main] INFO ebanking - entered password
+2021-07-09 13:31:17,275 [main] INFO ebanking - clicked submit button
+2021-07-09 13:31:17,678 [main] INFO ebanking - login test is passed
+2021-07-09 13:31:19,685 [main] INFO ebanking - logout is success
+2021-07-09 13:31:24,399 [main] INFO ebanking - URL is opened
+2021-07-09 13:31:24,554 [main] INFO ebanking - username entered
+2021-07-09 13:31:24,687 [main] INFO ebanking - password is entered
+2021-07-09 13:31:25,747 [main] INFO ebanking - login button clicked
+2021-07-09 13:31:26,872 [main] INFO ebanking - addcustomer link clicked
+2021-07-09 13:31:30,070 [main] INFO ebanking - added a customername
+2021-07-09 13:31:30,183 [main] INFO ebanking - clicked a female
+2021-07-09 13:31:35,451 [main] INFO ebanking - added a DOB
+2021-07-09 13:31:35,698 [main] INFO ebanking - Added a address
+2021-07-09 13:31:35,838 [main] INFO ebanking - Added a city
+2021-07-09 13:31:35,963 [main] INFO ebanking - Added a state
+2021-07-09 13:31:36,099 [main] INFO ebanking - Added a pincode
+2021-07-09 13:31:36,236 [main] INFO ebanking - added a phone no
+2021-07-09 13:31:36,400 [main] INFO ebanking - added a email
+2021-07-09 13:31:37,045 [main] INFO ebanking - Clicked a submit
+2021-07-09 13:31:40,252 [main] INFO ebanking - screenshot Capture
+2021-07-09 13:31:40,253 [main] INFO ebanking - New Customer  is Addeded
+2021-07-09 13:31:41,194 [main] INFO ebanking - Page is closed
+2021-07-09 14:11:53,556 [main] INFO ebanking - entered url
+2021-07-09 14:11:53,756 [main] INFO ebanking - maxm the page
+2021-07-09 14:11:53,822 [main] INFO ebanking - URL is opened
+2021-07-09 14:11:54,212 [main] INFO ebanking - entered username 
+2021-07-09 14:11:54,411 [main] INFO ebanking - entered password
+2021-07-09 14:11:56,291 [main] INFO ebanking - clicked submit button
+2021-07-09 14:11:56,670 [main] INFO ebanking - login test is passed
+2021-07-09 14:11:58,140 [main] INFO ebanking - logout is success
+2021-07-09 14:12:03,208 [main] INFO ebanking - URL is opened
+2021-07-09 14:12:03,433 [main] INFO ebanking - username entered
+2021-07-09 14:12:03,638 [main] INFO ebanking - password is entered
+2021-07-09 14:12:05,067 [main] INFO ebanking - login button clicked
+2021-07-09 14:12:06,271 [main] INFO ebanking - addcustomer link clicked
+2021-07-09 14:12:09,468 [main] INFO ebanking - added a customername
+2021-07-09 14:12:09,613 [main] INFO ebanking - clicked a female
+2021-07-09 14:12:14,919 [main] INFO ebanking - added a DOB
+2021-07-09 14:12:15,236 [main] INFO ebanking - Added a address
+2021-07-09 14:12:15,390 [main] INFO ebanking - Added a city
+2021-07-09 14:12:15,557 [main] INFO ebanking - Added a state
+2021-07-09 14:12:15,758 [main] INFO ebanking - Added a pincode
+2021-07-09 14:12:15,957 [main] INFO ebanking - added a phone no
+2021-07-09 14:12:16,199 [main] INFO ebanking - added a email
+2021-07-09 14:12:17,128 [main] INFO ebanking - Clicked a submit
+2021-07-09 14:12:20,357 [main] INFO ebanking - screenshot Capture
+2021-07-09 14:12:20,358 [main] INFO ebanking - New Customer  is Addeded
+2021-07-09 14:12:21,329 [main] INFO ebanking - Page is closed
+2021-07-09 14:17:20,279 [main] INFO ebanking - entered url
+2021-07-09 14:17:20,462 [main] INFO ebanking - maxm the page
+2021-07-09 14:17:20,529 [main] INFO ebanking - URL is opened
+2021-07-09 14:17:20,863 [main] INFO ebanking - entered username 
+2021-07-09 14:17:21,107 [main] INFO ebanking - entered password
+2021-07-09 14:17:23,272 [main] INFO ebanking - clicked submit button
+2021-07-09 14:17:23,652 [main] INFO ebanking - login test is passed
+2021-07-09 14:17:24,786 [main] INFO ebanking - logout is success
+2021-07-09 14:17:31,661 [main] INFO ebanking - URL is opened
+2021-07-09 14:17:31,851 [main] INFO ebanking - entered username 
+2021-07-09 14:17:32,004 [main] INFO ebanking - entered password
+2021-07-09 14:17:33,118 [main] INFO ebanking - Login
+2021-07-09 14:17:40,035 [main] INFO ebanking - logout is succesfully
+2021-07-09 14:17:40,099 [main] INFO ebanking - URL is opened
+2021-07-09 14:17:42,080 [main] INFO ebanking - entered username 
+2021-07-09 14:17:42,219 [main] INFO ebanking - entered password
+2021-07-09 14:17:43,339 [main] INFO ebanking - Login
+2021-07-09 14:17:48,128 [main] INFO ebanking - URL is opened
+2021-07-09 14:17:48,276 [main] INFO ebanking - entered username 
+2021-07-09 14:17:48,409 [main] INFO ebanking - entered password
+2021-07-09 14:17:49,145 [main] INFO ebanking - Login
+2021-07-09 14:17:53,505 [main] INFO ebanking - URL is opened
+2021-07-09 14:17:53,648 [main] INFO ebanking - entered username 
+2021-07-09 14:17:53,779 [main] INFO ebanking - entered password
+2021-07-09 14:17:54,699 [main] INFO ebanking - Login
+2021-07-09 14:18:01,753 [main] INFO ebanking - logout is succesfully
+2021-07-09 14:18:01,803 [main] INFO ebanking - URL is opened
+2021-07-09 14:18:03,992 [main] INFO ebanking - entered username 
+2021-07-09 14:18:04,165 [main] INFO ebanking - entered password
+2021-07-09 14:18:05,478 [main] INFO ebanking - Login
+2021-07-09 14:18:12,006 [main] INFO ebanking - URL is opened
+2021-07-09 14:18:12,211 [main] INFO ebanking - username entered
+2021-07-09 14:18:12,381 [main] INFO ebanking - password is entered
+2021-07-09 14:18:14,022 [main] INFO ebanking - login button clicked
+2021-07-09 14:18:14,828 [main] INFO ebanking - addcustomer link clicked
+2021-07-09 14:18:18,067 [main] INFO ebanking - added a customername
+2021-07-09 14:18:18,192 [main] INFO ebanking - clicked a female
+2021-07-09 14:18:23,513 [main] INFO ebanking - added a DOB
+2021-07-09 14:18:23,758 [main] INFO ebanking - Added a address
+2021-07-09 14:18:23,893 [main] INFO ebanking - Added a city
+2021-07-09 14:18:24,034 [main] INFO ebanking - Added a state
+2021-07-09 14:18:24,176 [main] INFO ebanking - Added a pincode
+2021-07-09 14:18:24,330 [main] INFO ebanking - added a phone no
+2021-07-09 14:18:24,528 [main] INFO ebanking - added a email
+2021-07-09 14:18:25,267 [main] INFO ebanking - Clicked a submit
+2021-07-09 14:18:28,659 [main] INFO ebanking - screenshot Capture
+2021-07-09 14:18:28,660 [main] INFO ebanking - New Customer  is Addeded
+2021-07-09 14:18:29,637 [main] INFO ebanking - Page is closed
+2021-07-09 19:24:25,639 [main] INFO ebanking - entered url
+2021-07-09 19:24:25,826 [main] INFO ebanking - maxm the page
+2021-07-09 19:24:25,894 [main] INFO ebanking - URL is opened
+2021-07-09 19:24:26,309 [main] INFO ebanking - entered username 
+2021-07-09 19:24:26,575 [main] INFO ebanking - entered password
+2021-07-09 19:24:28,691 [main] INFO ebanking - clicked submit button
+2021-07-09 19:24:29,112 [main] INFO ebanking - login test is passed
+2021-07-09 19:24:30,402 [main] INFO ebanking - logout is success
+2021-07-09 19:24:37,469 [main] INFO ebanking - URL is opened
+2021-07-09 19:24:37,649 [main] INFO ebanking - entered username 
+2021-07-09 19:24:37,776 [main] INFO ebanking - entered password
+2021-07-09 19:24:38,908 [main] INFO ebanking - Login
+2021-07-09 19:24:45,897 [main] INFO ebanking - logout is succesfully
+2021-07-09 19:24:45,949 [main] INFO ebanking - URL is opened
+2021-07-09 19:24:47,666 [main] INFO ebanking - entered username 
+2021-07-09 19:24:47,796 [main] INFO ebanking - entered password
+2021-07-09 19:24:49,068 [main] INFO ebanking - Login
+2021-07-09 19:24:54,219 [main] INFO ebanking - URL is opened
+2021-07-09 19:24:54,379 [main] INFO ebanking - entered username 
+2021-07-09 19:24:54,508 [main] INFO ebanking - entered password
+2021-07-09 19:24:55,864 [main] INFO ebanking - Login
+2021-07-09 19:25:00,651 [main] INFO ebanking - URL is opened
+2021-07-09 19:25:00,841 [main] INFO ebanking - entered username 
+2021-07-09 19:25:00,978 [main] INFO ebanking - entered password
+2021-07-09 19:25:02,090 [main] INFO ebanking - Login
+2021-07-09 19:25:10,214 [main] INFO ebanking - logout is succesfully
+2021-07-09 19:25:10,269 [main] INFO ebanking - URL is opened
+2021-07-09 19:25:12,263 [main] INFO ebanking - entered username 
+2021-07-09 19:25:12,403 [main] INFO ebanking - entered password
+2021-07-09 19:25:13,017 [main] INFO ebanking - Login
+2021-07-09 19:25:17,911 [main] INFO ebanking - URL is opened
+2021-07-09 19:25:18,067 [main] INFO ebanking - username entered
+2021-07-09 19:25:18,198 [main] INFO ebanking - password is entered
+2021-07-09 19:25:19,157 [main] INFO ebanking - login button clicked
+2021-07-09 19:25:20,461 [main] INFO ebanking - addcustomer link clicked
+2021-07-09 19:25:23,767 [main] INFO ebanking - added a customername
+2021-07-09 19:25:23,900 [main] INFO ebanking - clicked a female
+2021-07-09 19:25:29,293 [main] INFO ebanking - added a DOB
+2021-07-09 19:25:29,545 [main] INFO ebanking - Added a address
+2021-07-09 19:25:29,683 [main] INFO ebanking - Added a city
+2021-07-09 19:25:29,815 [main] INFO ebanking - Added a state
+2021-07-09 19:25:29,956 [main] INFO ebanking - Added a pincode
+2021-07-09 19:25:30,110 [main] INFO ebanking - added a phone no
+2021-07-09 19:25:30,318 [main] INFO ebanking - added a email
+2021-07-09 19:25:31,004 [main] INFO ebanking - Clicked a submit
+2021-07-09 19:25:34,252 [main] INFO ebanking - screenshot Capture
+2021-07-09 19:25:34,253 [main] INFO ebanking - New Customer  is Addeded
+2021-07-09 19:25:35,265 [main] INFO ebanking - Page is closed
